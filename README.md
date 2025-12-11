@@ -48,15 +48,24 @@ This system provides an efficient alternative by enabling stakeholders to visual
 - Mapbox/Leaflet dependencies for frontend rendering  
 
 # **System Architecture**
-![Architecture Placeholder](architecture.png)
+<img width="400" height="264" alt="image" src="https://github.com/user-attachments/assets/38b42478-3dae-4e05-94b5-08d020b8622e" />
+<img width="233" height="216" alt="image" src="https://github.com/user-attachments/assets/4ef91b4b-a1eb-465c-bf37-a9370bdba50a" />
+
 
 # **Output**
 
-## **Output 1 – Accessibility Score Map**
-![Accessibility Map Placeholder](output1.png)
+## **Output 1 – Nearest Facility Finder Map**
+<img width="1896" height="860" alt="image" src="https://github.com/user-attachments/assets/d5ebe154-7638-4d0b-b92a-61ecf81d91eb" />
 
-## **Output 2 – Camp Recommendation Clusters**
-![Cluster Recommendation Placeholder](output2.png)
+
+## **Output 2 – Explore Facilities**
+<img width="1893" height="856" alt="image" src="https://github.com/user-attachments/assets/12147cdf-4ded-4aa5-bfff-640ee345fa3d" />
+
+
+## **Output 3 – Camp Recommendation Map**
+<img width="1903" height="860" alt="image" src="https://github.com/user-attachments/assets/9acd2366-d968-4796-aaea-751880d1aaa1" />
+
+
 
 # **Detection / Model Performance**
 **Accessibility Computation Accuracy:** ~94%  
