@@ -1,0 +1,6 @@
+[submodule "raha-frontend"]
+	path = raha-frontend
+	url = https://github.com/Meenu-S-28/RAHA-frontend.git
+[submodule "raha-backend"]
+	path = raha-backend
+	url = https://github.com/Meenu-S-28/RAHA-backend.git
