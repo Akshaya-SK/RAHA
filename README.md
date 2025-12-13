@@ -48,7 +48,8 @@ This system provides an efficient alternative by enabling stakeholders to visual
 - Mapbox/Leaflet dependencies for frontend rendering  
 
 # **System Architecture**
-<img width="1173" height="761" alt="image" src="https://github.com/user-attachments/assets/f6ded75a-a1e4-460e-9205-cc51aaffc6bc" />
+![WhatsApp Image 2025-12-13 at 12 40 00 PM](https://github.com/user-attachments/assets/4afb2ee0-a5fd-4482-bc75-c23ed17bfaa4)
+
 
 
 
