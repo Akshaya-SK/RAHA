@@ -1,7 +1,6 @@
-# **Title of the Project**
-**RAHA – Rural Access to Healthcare Analyzer**
+# **RAHA – Rural Access to Healthcare Analyzer**
 
-# **Small Description**
+# **Description**
 A geospatial healthcare accessibility analysis system designed to identify underserved rural regions, recommend mobile health camp locations, and improve decision-making for governments, NGOs, and healthcare providers.
 
 # **About**
@@ -82,6 +81,13 @@ The system provides:
 - A scalable foundation for future healthcare-tech innovations  
 
 RAHA demonstrates how geospatial technology and structured health data can create more equitable healthcare ecosystems.
+
+## Contributors
+
+- **Akshaya S K** ([GitHub](https://github.com/Akshaya-SK)) – Frontend UI design and implementation
+- **Meenu S** ([GitHub](https://github.com/Meenu-S-28)) – Backend API development and integration
+- **Sree Niveditaa Saravanan** ([GitHub](https://github.com/sreeniveditaa)) – Documentation, data collection, and data preparation
+
 
 # **Articles Published / References**
 
